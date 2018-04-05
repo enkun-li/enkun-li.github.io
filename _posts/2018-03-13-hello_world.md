@@ -1,6 +1,11 @@
 ---
-layout: default
+layout: post
 title: 你好，世界
+date: 2018-03-01
+author: ekli
+catalog: true
+tags:
+    - tests
 ---
 
 # 你好，世界
