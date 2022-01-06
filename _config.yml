@@ -9,3 +9,5 @@ jianshu_username: e71990ada2fd  # 你的简书ID。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
+
+theme: jekyll-theme-minimal
